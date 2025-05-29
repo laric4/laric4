@@ -8,7 +8,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify]](https://open.spotify.com/playlist/0UMZlMhKrYQfIR9hoVfg3j)
+&nbsp; <br> [![Spotify](https://spotify-now-playing-larica.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/s88iay8xjjwadyi24i828omv4)
 
   </td>
 <div align="center">
