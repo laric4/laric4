@@ -2,7 +2,7 @@
 
 ##
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div>
   <a href="mailto:larapalmeira38@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
