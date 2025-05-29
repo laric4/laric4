@@ -8,12 +8,10 @@
   <tr>
   <td width="50%">
 
-  </td>
 <div align="center">
   <a href="https://linktr.ee/laroquildes">
 </div>
   
-  ##
  
 <div>  
 
