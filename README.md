@@ -8,7 +8,7 @@
   <tr>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://spotify-now-playing-cuukiii.vercel.app//api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/playlist/0UMZlMhKrYQfIR9hoVfg3j)
+&nbsp; <br> [![Spotify]](https://open.spotify.com/playlist/0UMZlMhKrYQfIR9hoVfg3j)
 
   </td>
 <div align="center">
@@ -21,7 +21,6 @@
 
   <a href="https://www.instagram.com/lrmrchs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/laroquildes" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:larapalmeira38@gmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
    <a href="https://linktr.ee/laroquildes" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
   
 </div>
