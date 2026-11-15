@@ -17,9 +17,6 @@
   <a href="https://www.twitch.tv/laroquildes" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
-  <a href="https://linktr.ee/laroquildes" target="_blank">
-    <img src="https://img.shields.io/badge/-Linktree-%2343E55E?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-  </a>
 </p>
 
 ---
@@ -28,7 +25,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git" alt="Tecnologias" />
+    <img src="https://skillicons.dev/icons?i=python,js,ts,react,html,css,git,sql,mermaid" alt="Tecnologias" />
   </a>
 </p>
 
