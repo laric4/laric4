@@ -1,3 +1,7 @@
+# Gera github-metrics.svg com as linguagens mais usadas.
+# Antes de rodar, crie um token em https://github.com/settings/tokens
+# e salve como secret METRICS_TOKEN em Settings > Secrets and variables > Actions.
+# Para rodar: aba Actions > Metrics > Run workflow.
 name: Metrics
 on:
   workflow_dispatch:
