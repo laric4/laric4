@@ -29,11 +29,3 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white" alt="Mermaid" />
 </p>
-
----
-
-### 📈 Linguagens mais usadas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laric4&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
